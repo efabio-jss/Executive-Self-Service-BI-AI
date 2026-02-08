@@ -1,0 +1,11 @@
+fund_id,fund_name,strategy,currency
+FND001,Global Equity Alpha,Equity,EUR
+FND002,Euro Credit Income,Fixed Income,EUR
+FND003,Emerging Markets Growth,Equity,EUR
+FND004,Infrastructure Yield,Infrastructure,EUR
+FND005,AI Tech Opportunities,Equity,EUR
+FND006,Green Energy Transition,ESG,EUR
+FND007,Multi Asset Dynamic,Multi Asset,EUR
+FND008,Private Debt Select,Private Debt,EUR
+FND009,Quant Macro Strategy,Quant,EUR
+FND010,Real Estate Core,Real Estate,EUR
